@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90760e51951ebf7b53e7",
+    "revision": "38bbedd19aa228bf7a45",
     "url": "/a2hs-1922-sms-helper/css/app.175bc01f.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/a2hs-1922-sms-helper/img/logo.1543b4e4.svg"
   },
   {
-    "revision": "3bc709b152427e1ef023b1af1a2d632f",
+    "revision": "16c45b2131915588f75ca2b2a81229e4",
     "url": "/a2hs-1922-sms-helper/index.html"
   },
   {
-    "revision": "90760e51951ebf7b53e7",
-    "url": "/a2hs-1922-sms-helper/js/app.c0208e75.js"
+    "revision": "38bbedd19aa228bf7a45",
+    "url": "/a2hs-1922-sms-helper/js/app.74892f21.js"
   },
   {
     "revision": "08395d184d2a5c8200be",

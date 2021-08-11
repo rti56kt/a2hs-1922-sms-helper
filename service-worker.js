@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/a2hs-1922-sms-helper/precache-manifest.402481b078b988e565c139ad4f3a45a0.js"
+  "/a2hs-1922-sms-helper/precache-manifest.3f93bbf1addec416390cde1f7af298f9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "a2hs-1922-sms-helper"});
