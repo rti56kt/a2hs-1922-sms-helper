@@ -42,12 +42,7 @@ export default {
   },
   data() {
     return {
-      cameraSettings: {
-        audio: false,
-        video: {
-            facingMode: { ideal: 'environment' }
-        }
-      },
+      cameraSettings: 'rear',
       paused: false
     }
   }
