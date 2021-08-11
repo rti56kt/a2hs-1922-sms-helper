@@ -4,6 +4,5 @@ import App from './App.vue'
 import i18n from './i18n'
 import './registerServiceWorker'
 import 'ant-design-vue/dist/antd.css';
-import '@ant-design/icons-vue'
 
 createApp(App).use(Antd).use(i18n).mount('#app')
